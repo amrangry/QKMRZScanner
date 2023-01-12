@@ -15,6 +15,8 @@ QKMRZScanner is available through CocoaPods. To install it, simply add the follo
 ```ruby
 pod 'QKMRZScanner'
 ```
+### How to use
+Inside the folder Example there is an Xcode project, that shows the usage of the SDK.
 
 ### Note
 **Xcode 12** and **CocoaPods** >= 1.10.0.rc.1 is recommended. More info [here](https://github.com/SwiftyTesseract/SwiftyTesseract/tree/support/3.x.x#note-on-cocoapods).
